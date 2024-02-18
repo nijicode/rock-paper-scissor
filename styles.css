@@ -58,11 +58,11 @@ button {
   transform: rotate(-90deg);
 }
 .animation-left {
-  animation: pickLoading-left 1s linear 3;
+  animation: pickLoading-left 1s linear 2;
   margin-right: 20px;
 }
 .animation-right {
-  animation: pickLoading-right 1s linear 3;
+  animation: pickLoading-right 1s linear 2;
   margin-left: 20px;
 }
 .block {
